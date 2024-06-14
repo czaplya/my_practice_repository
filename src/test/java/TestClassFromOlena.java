@@ -8,5 +8,6 @@ public static void main(String[] args) {
 
     System.out.println("Olena's private message to Dani");
 
+    String str = "lksafhslkfd";
 }
 }
